@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KvalEkz7bilet", "KvalEkz7bilet\KvalEkz7bilet.csproj", "{1952C8E2-F307-4B01-93E5-9A15D0BFAF9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KvalEkz7biletConsole", "KvalEkz7biletConsole\KvalEkz7biletConsole.csproj", "{60557622-6E1A-413A-A77F-806B02480B85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1952C8E2-F307-4B01-93E5-9A15D0BFAF9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1952C8E2-F307-4B01-93E5-9A15D0BFAF9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1952C8E2-F307-4B01-93E5-9A15D0BFAF9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1952C8E2-F307-4B01-93E5-9A15D0BFAF9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60557622-6E1A-413A-A77F-806B02480B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60557622-6E1A-413A-A77F-806B02480B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60557622-6E1A-413A-A77F-806B02480B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60557622-6E1A-413A-A77F-806B02480B85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35C7FE0E-3583-423D-B368-387265038580}
+	EndGlobalSection
+EndGlobal
